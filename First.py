@@ -9,3 +9,7 @@ hello(45)
 
 print("Hello this is vithushan")
 print("Enter the new world")
+
+
+def new_Function(A,B):
+    print(A,B)
