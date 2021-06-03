@@ -13,3 +13,6 @@ print("Enter the new world")
 
 def new_Function(A,B):
     print(A,B)
+
+def new_23():
+    print("Hello this is vithushan")
